@@ -11,5 +11,5 @@ Each project will include the design files needed to edit and print the parts al
 The shutters in my home have a very basic magnet latching mechanism however, the magnet holders keep degrading and quickly become brittle which causes them to break very easily when the shutters are opened/closed. I created this project to be able to easily replace the broken magnet holders.
 
 ### Final Product
-![alt text](shutter-magnet-1.png)
-![alt text](shutter-magnet-2.png)
+![alt text](shutter-magnet-holder/shutter-magnet-1.png)
+![alt text](shutter-magnet-holder/shutter-magnet-2.png)
